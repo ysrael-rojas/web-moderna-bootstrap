@@ -1,0 +1,10 @@
+body{
+    padding-top:  84rem;
+}
+
+@media (max-width: 600px) {
+    .navbar {
+      top: auto;
+      bottom: 0;
+    }
+  }
